@@ -15,7 +15,9 @@
 - 🎓 Bachelors in Biotechnology from [Dayananda Sagar College of Engineering](https://www.dsce.edu.in/academics/ug/biotechnology)
 - 💻 Experienced in bioinformatics programming, computational biology, machine learning, drug discovery, Biostatistics
 - 🌱 Passionate about cancer therapeutics, machine learning for drug discovery, cancer biology and RNA biology
-- ⚡ Fun fact
+- ⚡ Fun fact - I make digital illustrations and I love hiking!
 - 🔹 Connect on LinkedIn [![Linkedin: Amoolya Srinivasa](https://img.shields.io/badge/-AmoolyaSrinivasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoolya-srinivasa)](https://www.linkedin.com/in/amoolya-srinivasa) 
+- 📍 Currenty based in Boston, Massachusetts
+- 🔹 Reach me at srinivasa.a@northeastern.edu
 - ⚡ More on my [personal site]()
 

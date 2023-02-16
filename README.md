@@ -4,7 +4,9 @@
     <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Amoolya 
   </h2>
 </div>  
-  
+ 
+<p align="left"><img width=15%" src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" alt="lang image here" /></p> 
+
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
 ### I'm a Bioinformatics gradute from [Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/). I am currently working as a Computational Biology-Data Science Co-op at [NextRNA Therapeutics](https://www.nextrnatx.com/).  

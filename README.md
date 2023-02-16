@@ -1,5 +1,9 @@
-:wave:
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+  
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Amoolya 
+  </h2>
+</div>  
   
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 

@@ -6,7 +6,7 @@
 </div>  
  
 
-<p align="left"><img width=15%" src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" alt="lang image here" /></p>
+<p align="left"><img width=5%" src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" alt="lang image here" /></p>
  
 
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->

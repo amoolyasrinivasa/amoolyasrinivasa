@@ -5,6 +5,9 @@
   </h2>
 </div>  
  
+<p float="center" align="middle">
+  <i>"Everything you’ve ever wanted is on the other side of fear."<br>- George Addair -</i>  
+</p> 
 
 <p align="left"><img width=10%" src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" alt="GIF here" /></p>
  

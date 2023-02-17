@@ -5,7 +5,7 @@
   </h2>
 </div>  
  
-<img src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" width="300px" align="right"> 
+<img src="https://github.com/amoolya1199/amoolya1199/blob/main/image_processing20201015-26328-2ovoon.gif" width="500px" align="right"> 
  
 
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->

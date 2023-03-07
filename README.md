@@ -25,5 +25,6 @@
 - 🔹 Connect on LinkedIn [![Linkedin: Amoolya Srinivasa](https://img.shields.io/badge/-AmoolyaSrinivasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoolya-srinivasa)](https://www.linkedin.com/in/amoolya-srinivasa) 
 - 📍 Currenty based in Boston, Massachusetts
 - 🔹 Reach me at srinivasa.a@northeastern.edu
+- 🔹 More on my [personal website](https://amoolyasrinivasa.github.io/) 
 
 

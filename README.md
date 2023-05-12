@@ -15,7 +15,7 @@
 
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
 
-### I'm a Bioinformatics gradute from [Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/). I am currently working as a Computational Biology-Data Science Co-op at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
+### I'm a Bioinformatics graduate from [Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/). I am currently working as a Computational Biology-Data Science Co-op at [NextRNA Therapeutics](https://www.nextrnatx.com/).  
 
 - 🎓 Masters in Bioinformatics from [Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/), Go huskies!
 - 🎓 Bachelors in Biotechnology from [Dayananda Sagar College of Engineering](https://www.dsce.edu.in/academics/ug/biotechnology)

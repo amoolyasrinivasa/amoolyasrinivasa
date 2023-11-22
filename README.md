@@ -19,8 +19,8 @@
 
 - 🎓 Masters in Bioinformatics from [Northeastern University](https://cos.northeastern.edu/master-of-science-in-bioinformatics/), Go huskies!
 - 🎓 Bachelors in Biotechnology from [Dayananda Sagar College of Engineering](https://www.dsce.edu.in/academics/ug/biotechnology)
-- 💻 Experienced in bioinformatics programming, computational biology, machine learning, drug discovery, Biostatistics
-- 🌱 Passionate about cancer therapeutics, machine learning for drug discovery, cancer biology and RNA biology
+- 💻 Experienced in bioinformatics programming, computational biology and machine learning
+- 🌱 Passionate about cancer therapeutics, drug discovery and genomics
 - ⚡  I make digital illustrations and love going on hikes!
 - 🔹 Connect on LinkedIn [![Linkedin: Amoolya Srinivasa](https://img.shields.io/badge/-AmoolyaSrinivasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoolya-srinivasa)](https://www.linkedin.com/in/amoolya-srinivasa) 
 - 📍 Currenty based in New York

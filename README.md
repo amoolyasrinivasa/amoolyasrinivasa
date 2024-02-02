@@ -6,7 +6,7 @@
 </div>  
  
 <p float="middle" align="middle">
-  <i>"Everything you’ve ever wanted is on the other side of fear."<br>- George Addair -</i>  
+  <i>"I am a Bioinformatician. Nobody knows what I do, until I don't do it." 
 </p> 
 
 <p float="middle" align="middle">

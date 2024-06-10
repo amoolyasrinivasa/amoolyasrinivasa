@@ -22,8 +22,8 @@
 - 💻 Experienced in bioinformatics programming, computational biology and machine learning
 - 🌱 Passionate about cancer therapeutics, drug discovery and genomics
 - ⚡  I make digital illustrations and love going on hikes!
-- 🔹 Connect on LinkedIn [![Linkedin: Amoolya Srinivasa](https://img.shields.io/badge/-AmoolyaSrinivasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoolya-srinivasa)](https://www.linkedin.com/in/amoolya-srinivasa) 
 - 📍 Currenty based in New York
+- 🔹 Connect on LinkedIn [![Linkedin: Amoolya Srinivasa](https://img.shields.io/badge/-AmoolyaSrinivasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoolya-srinivasa)](https://www.linkedin.com/in/amoolya-srinivasa) 
 - 🔹 Reach me at amoolyasrinivasa@gmail.com
 - 🔹 More on my [personal website](https://amoolyasrinivasa.github.io/) 
 

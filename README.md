@@ -6,7 +6,7 @@
 </div>  
  
 <p float="middle" align="middle">
-  <i>I am a Bioinformatician. Nobody knows what I do, until I don't do it.
+  <i>If at first you don't succeed; call it version 1.0
 </p> 
 
 <p float="middle" align="middle">
